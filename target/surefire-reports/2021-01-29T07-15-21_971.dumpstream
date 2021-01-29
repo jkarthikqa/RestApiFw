@@ -1,0 +1,4 @@
+# Created at 2021-01-29T07:15:23.419
+Boot Manifest-JAR contains absolute paths in classpath 'D:\RestApiFarmework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
